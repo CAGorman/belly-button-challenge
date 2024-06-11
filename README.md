@@ -1,7 +1,7 @@
 # belly-button-challenge
 
 ## Overview
-  In this assignment, an interactive dashboard is created to explore the Belly Button Biodiversity ( https://robdunnlab.com/projects/belly-button-biodiversity/ ), which catalogs the microbes that colonize human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare. In this project, both D3 and Plotly were utilized.
+  In this assignment, an interactive dashboard is created to explore the Belly Button Biodiversity, which catalogs the microbes that colonize human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare. In this project, both D3 and Plotly were utilized.
   
 The following steps were completed:
 1. Use the D3 library to read in samples.json from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json.
@@ -27,5 +27,7 @@ The following steps were completed:
   Begin by selecting a sample ID from the dropdown menu. Successful execution will result in plots and demographic info changing each time a new sample ID is selected. Hover over the charts to see more information about the bacteria in that sample. Click on the link to explore the free static page hosting service that was created:
 https://cagorman.github.io/belly-button-challenge/
 
-
+## References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable:
+( https://robdunnlab.com/projects/belly-button-biodiversity/ )
   
